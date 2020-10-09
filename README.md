@@ -46,7 +46,3 @@ Segmentación de clientes
    obtenidos.
    
 10. Aplicar componentes principales inverso para recuperar los datos originales.
-
-Se espera que el estudiante vaya redactando e interpretando a medida que va obteniendo sus resultados.
-El tipo de entrega es individual. Plazo máximo de entrega: jueves 8 de octubre a las 23:59 hrs., al
-correo j.castillo@udd.cl
